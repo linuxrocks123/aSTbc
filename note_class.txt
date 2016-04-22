@@ -1,0 +1,9 @@
+
+getKey()
+setKey(Key key)
+getOctave()
+setOctave(int octave)
+
+Middle C up to B are Octave 0.
+What other keys are Octave 0 depend on the key.
+For the key of C major, only those keys are Octave 0.

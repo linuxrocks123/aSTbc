@@ -1,0 +1,6 @@
+#ifndef TONE_HPP
+#define TONE_HPP
+
+enum Tone {TONE_C=0,TONE_D,TONE_E,TONE_F,TONE_G,TONE_A,TONE_B,TONE_REST};
+
+#endif
